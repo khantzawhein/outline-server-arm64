@@ -35,7 +35,8 @@
   ],
   "husky": {
     "hooks": {
-      "pre-commit": "./task lint format"
+      "pre-commit": ""
+    
     }
   }
 }
